@@ -1,0 +1,2 @@
+print ("Dhoni")
+print ("Madhuri")
